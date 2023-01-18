@@ -18,10 +18,23 @@
 }
 
 /* 5. exercice-wrap-1 */
-
+.exercice-wrap-1 .container {
+  display: flex;
+  flex-direction: row;
+}
 /* 6. exercice-wrap-2 */
-
+.exercice-wrap-2 .container {
+  display: flex;
+  flex-wrap: wrap ;
+}
 /* 7. exercice-wrap-3 */
-
+.exercice-wrap-3 .container{
+  display: flex;
+  flex-wrap: wrap-reverse ;
+}
 /* 8. all-in */
+.exercice-all-in .container {
+  display: flex;
+ 
+}
 
